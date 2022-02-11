@@ -30,7 +30,8 @@ function init() {
     inquirer
         .prompt(questions)
         .then((answers) => {
-            console.log(answers);
+           const markdownSyntax = markdown(answers);
+           writeToFile('README.md', markdownSyntax);
         })
 };
 
