@@ -6,7 +6,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 This command-line application dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
 ## License
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![MIT License](https://img.shields.io/badge/license-MIT-red)
 
 This project is licensed under the MIT License.
     
@@ -30,5 +30,5 @@ Watch this short [demo](https://drive.google.com/file/d/12P61Vi4GoStztpFXf3vh7_N
 ## Testing
 There are no tests associated with this project.
 
-## Questions
+## Contact
 If you have any questions, you can find me [here](https://yyb613.github.io/portfolio).
