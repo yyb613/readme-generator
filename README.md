@@ -10,7 +10,7 @@ This command-line application dynamically generates a professional README.md fil
 
 This project is licensed under the MIT License.
     
-For more information on this license, please visit [their website](https://opensource.org/licenses/MIT).
+For more information on this license, please visit [their website](https://www.mit.edu/~amini/LICENSE.md).
   
 ## Installation
 1. Download the code repo to your computer.
